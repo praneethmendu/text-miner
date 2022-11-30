@@ -27,7 +27,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "lancaster-stemmer": "^1.0.0",
+    "lancaster-stemmer": "^1.0.5",
     "stemmer": "^1.0.0",
     "underscore": "~1.13.6",
     "underscore.string": "^3.3.5",
